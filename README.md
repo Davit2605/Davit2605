@@ -1,7 +1,7 @@
 <h1>Hi, I'm Davit 👋</h1> 
 
 <h4>I'm a Junior Front-end Developer living in Dublin, Ireland.</h4>
-<p>Self motivated individual who is passionate about web development and <br>
+<p>I consider myself as a motivated individual who is passionate about web development <br> and 
 enjoys working either independently or as part of a team. 💻</p>
 <hr>
 
