@@ -23,6 +23,15 @@ enjoys working either independently or as part of a team. 💻</p>
   <li>Bachelors Degree in Automotive Mgmt&Tech (TUD, Ireland)</li>
    <li><a href="https://www.linkedin.com/in/davit-machurishvili-05973b135/"</a>See Certifications on LinkedIn</li>
  </ul>
+    
+
+
+ 
+
+
+
+
+
 
 
   
