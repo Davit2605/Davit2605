@@ -21,7 +21,7 @@ enjoys working either independently or as part of a team. 💻</p>
   <li>HTML5 & CSS3 Specialist (e-college, Ireland)</li>
   <li>HTML & CSS and JavaScript projects (Udemy)</li>
   <li>Bachelors Degree in Automotive Mgmt&Tech (TUD, Ireland)</li>
-   <li><a href="https://www.linkedin.com/in/davit-machurishvili-05973b135/"</a>See Certifications on LinkedIn</li>
+   <li><a href="https://www.linkedin.com/in/davit-machurishvili/"</a>See Certifications on LinkedIn</li>
  </ul>
     
 
