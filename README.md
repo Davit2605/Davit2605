@@ -28,7 +28,7 @@ enjoys working either independently or as part of a team. 💻</p>
 
  | 🖥️                  | Javascript Projects                                         |
 |----------------------|:-------------------------------------------------------------:|
-| 1. button-ripple     | **<a target="_blank"[Live Demo](https://davit2605.github.io/button-ripple/)</a>**     |
+| 1. button-ripple     | **<a target="_blank"[Live Demo](https://davit2605.github.io/button-ripple/)**     |
 | 2. background-slider | **<a target="_blank"[Live Demo](https://davit2605.github.io/background-slider/)</a>** |
 | 3. expanding-cards   | **<a target="_blank"[Live Demo](https://davit2605.github.io/expanding-cards/)</a>**   |
 
