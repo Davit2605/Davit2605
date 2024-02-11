@@ -33,6 +33,8 @@ enjoys working either independently or as part of a team. 💻</p>
 |:------------------------------------------------------------------------------------------------:|
 | **[Click for Live Demos & Files](https://github.com/Davit2605/Davit2605.github.io/blob/main/README.md)** |
 
+<hr>
+
 
 
     
