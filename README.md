@@ -5,7 +5,7 @@
 enjoys working either independently or as part of a team. 💻</p>
 <hr>
 
-<h2>➡️ Skills ⬅️</h2>
+<h2>⬇️ Skills ⬇️</h2>
 
 ![Static Badge](https://img.shields.io/badge/Html-61DB?style=for-the-badge&logo=Html5&logoColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/Css-61DBFB?style=for-the-badge&logo=Css3&labelColor=darkgreen&color=darkgreen)
