@@ -35,7 +35,7 @@ enjoys working either independently or as part of a team. 💻</p>
 
 <hr>
 
-[![Profile views](https://visitcount.itsvg.in/api?id=Davit2605&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![Profile views](https://visitcount.itsvg.in/api?id=Davit2605&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
