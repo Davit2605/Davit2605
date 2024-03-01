@@ -12,6 +12,7 @@ enjoys working either independently or as part of a team. 💻</p>
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&labelColor=black&color=yellow)
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/tailwind-48557346?style=for-the-badge&logo=tailwindcss&labelColor=%23867979&color=%230080ff)
+![Static Badge](https://img.shields.io/badge/Bootstrap-37464?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
 ![Static Badge](https://img.shields.io/badge/github-374545?style=for-the-badge&logo=github)
 
 
