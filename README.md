@@ -19,7 +19,7 @@ enjoys working either independently or as part of a team. 💻</p>
 
 <hr>
 
- <h2> 🌐 Educatin</h2>
+ <h2> 🌐 Education</h2>
 
  <ul>
   <li>JavaScript Specialist course (e-college, Ireland)</li>
