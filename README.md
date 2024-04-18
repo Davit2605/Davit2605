@@ -1,4 +1,4 @@
-<h1>Hi, I'm Davi 👋</h1> 
+<h1>Hi, I'm Davit 👋</h1> 
 
 <h4>I'm a Front-end Developer living in Dublin, Ireland.</h4>
 <p>I consider myself as a self motivated individual who is passionate about web development <br> and 
