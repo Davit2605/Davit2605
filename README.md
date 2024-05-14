@@ -22,11 +22,11 @@ enjoys working either independently or as part of a team. 💻</p>
  <h2> 🌐 Education</h2>
 
  <ul>
-  <li>React.js projects (Udemy)</li>
-  <li>HTML & CSS and JavaScript projects (<b>Udemy</b>)</li>
-  <li>JavaScript Specialist course (e-college, Ireland)</li>
-  <li>HTML5 & CSS3 Specialist course (e-college, Ireland)</li>
-  <li>Bachelors Degree in Automotive Mgmt & Tech (TUD, Ireland)</li>
+  <li>React.js projects <b>(Udemy)</b></li>
+  <li>HTML & CSS and JavaScript projects <b>(Udemy)</b></li>
+  <li>JavaScript Specialist course <b>(e-college, Ireland)</b></li>
+  <li>HTML5 & CSS3 Specialist course <b>(e-college, Ireland)</b></li>
+  <li>Bachelors Degree in Automotive Mgmt & Tech <b>(TUD, Ireland)</b></li>
  </ul>
 
  <hr>
