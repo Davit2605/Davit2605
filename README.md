@@ -31,7 +31,7 @@ enjoys working either independently or as part of a team. 💻</p>
 
  <hr>
 
-| 🖥️ 🖥️ 🖥️  <h2> Vanilla Javascript Projects </h2>                                                                        |
+| 🖥️ 🖥️ 🖥️  <h2> Vanilla Javascript Projects </h2>   |
 |:------------------------------------------------------------------------------------------------:|
  |  [**Section Code**](https://github.com/Davit2605/Davit2605.github.io) | 
 | [**Live Demos**](https://davit2605.github.io/)   |
