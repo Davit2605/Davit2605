@@ -36,7 +36,7 @@ enjoys working either independently or as part of a team. 💻</p>
 | [ **Section Code**](https://github.com/Davit2605/Davit2605.github.io) |
 | [**Live Demos**](https://davit2605.github.io/)   |
 
-
+<hr>
 
 
  🖥️ 🖥️ 🖥️  <h2> React.js Projects on Netlify </h2>   
