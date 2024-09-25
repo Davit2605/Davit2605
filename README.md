@@ -39,6 +39,10 @@ enjoys working either independently or as part of a team. 💻</p>
 
 <hr>
 
+ 🖥️ 🖥️ 🖥️  <h2> React.js Projects on Netlify </h2>   
+|:------------------------------------------------------------------------------------------------:|
+
+| [**Live Demo**](https://davs-react-quizz.netlify.app/)   |
 
 
 
