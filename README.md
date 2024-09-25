@@ -37,11 +37,11 @@ enjoys working either independently or as part of a team. 💻</p>
 | [**Live Demos**](https://davit2605.github.io/)   |
 
 
-<hr>
+
 
  🖥️ 🖥️ 🖥️  <h2> React.js Projects on Netlify </h2>   
 |:------------------------------------------------------------------------------------------------:|
-
+| [ **Section Code**](https://github.com/Davit2605/React-quiz) |
 | [**Live Demo**](https://davs-react-quizz.netlify.app/)   |
 
 
