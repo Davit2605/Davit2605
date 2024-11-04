@@ -41,7 +41,7 @@ enjoys working either independently or as part of a team. 💻</p>
 
  🖥️ 🖥️ 🖥️  <h2> React.js Projects on Netlify </h2>   
 |:------------------------------------------------------------------------------------------------:|
-| [ **Section Code**](https://github.com/Davit2605/React-quiz) |
+| [ **Section Code**](https://github.com/Davit2605/React-portfolio) |
 | [**Live Demo**](https://davs-react-quizz.netlify.app/)   |
 
 
