@@ -1,6 +1,6 @@
 <h1>Hi, I'm Davit 👋</h1> 
 
-<h4>I'm a Front-end Web Developer living in Dublin, Ireland.</h4>
+<h4>I'm a Front-end Web Developer living in Dublin, Ireland</h4>
 <p>I consider myself as a self motivated individual who is passionate about web development <br> and 
 enjoys working either independently or as part of a team. 💻</p>
 <hr>
